@@ -1,6 +1,6 @@
 - Olá! Eu sou a Bianca 👋
 
-- Atualmente estou estudando Ciência da Computação-UAM
+- Atualmente estou cursando Ciência da Computação (UAM)
 
 - Estou desenvolvendo alguns projetos em Java e MySQL
 
