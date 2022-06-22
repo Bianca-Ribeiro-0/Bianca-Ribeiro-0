@@ -2,9 +2,9 @@
 
 - Atualmente estou estudando Ciência da Computação-UAM
 
-- Estou desenvolvendo alguns projetos em Java e My SQL
+- Estou desenvolvendo alguns projetos em Java e MySQL
 
-- Contate-me no email: Biancamelamed7@gmail.com
+- Contate-me no email: biancamelamed7@gmail.com
 
 --> Pronomes: Ela/dela
 
