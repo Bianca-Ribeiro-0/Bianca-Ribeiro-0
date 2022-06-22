@@ -6,8 +6,6 @@
 
 - Contate-me no email: biancamelamed7@gmail.com
 
---> Pronomes: Ela/dela
-
 <div align="center">
   <a href="https://github.com/Bianca-Ribeiro-0">
     <div aling "center">
