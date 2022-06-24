@@ -2,7 +2,7 @@
 
 - Atualmente estou cursando Ciência da Computação (UAM)
 
-- Estou desenvolvendo alguns projetos em Java e MySQL
+- Estou desenvolvendo alguns projetos em Java, JavaScript e BD
 
 - Contate-me no email: biancamelamed7@gmail.com
 
