@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - I'm currently studying computer science at UAM
-- I'm also specializing in Full Stack Java development at EBAC!
+- I'm also specializing in Full Stack Java development!
 
 <div>
   
