@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-- I'm currently studying computer science at UAM
+-I'm a Software Engineer at Itaú Unibanco
+-Currently in my final year of Computer Science at Universidade Anhembi Morumbi
+-Enthusiastic about the data world, studying Data Engineering and Machine Learning
+
 
 <div>
   
