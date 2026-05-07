@@ -20,7 +20,6 @@ I am currently diving deep into the worlds of **Big Data** and **Cloud Computing
 
 ---
 
-### 🎨 Digital Inspirations
 <div align="center">
   <!-- 1. The local Sailor Moon GIF (Ensure this file is in your root folder) -->
   <img src="sailor.gif" alt="Sailor Moon Coding" height="180" style="margin-right: 10px;">
