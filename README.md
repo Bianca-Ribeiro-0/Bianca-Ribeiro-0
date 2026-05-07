@@ -1,41 +1,45 @@
-# ## Hi there, I'm Bianca 👋
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bianca-ribeiro-0&show_icons=true&theme=radical" alt="GitHub Stats" align="right" height="150">
+  <h2>Hi there, I'm Bianca 👋</h2>
   
-  <p align="left">
-    <strong>Software Engineer | Data Enthusiast 📊</strong><br>
-    Transformando dados em insights e construindo sistemas robustos com Python
-  </p>
+  <!-- O seu GIF da Sailor em destaque -->
+  <img src="sailor.gif" alt="coding-time" height="250">
 
-  <p align="left">
-    🌱 Atualmente focado em ecossistemas de Big Data e Cloud Computing.<br>
-    📫 Como me encontrar: https://www.linkedin.com/in/biancaribeiroscudeler/
+  <p>
+    <strong>Software Engineer | Data Enthusiast 📊 | Pintora e Escritora nas horas vagas 🖌️📖</strong><br>
+    Transformando dados em insights e construindo sistemas robustos com Python.
   </p>
 </div>
 
-<br clear="both">
+<div align="center">
+  <p>
+    🌱 Atualmente focado em ecossistemas de Big Data e Cloud Computing.<br>
+    📫 Como me encontrar: [Link do seu LinkedIn ou Email]
+  </p>
+</div>
 
-### 🛠 Tech Stack
+<br>
 
 <div align="center">
-  <!-- Backend & Languages -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  
-  <br>
-  
-  <!-- Data & Cloud -->
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <!-- Estatísticas Dinâmicas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bianca-ribeiro-0&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150">
 </div>
 
 ---
 
+### 🛠 Minhas Tecnologias (Tech Stack)
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bianca-ribeiro-0I&theme=radical" alt="GitHub Streak">
+  <!-- Backend & Languages -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  
+  <br>
+  
+  <!-- Data & Cloud -->
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
 </div>
