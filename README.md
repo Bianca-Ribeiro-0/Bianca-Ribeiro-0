@@ -1,7 +1,7 @@
 # ## Hi there, I'm Bianca 👋
 
 <div align="center">
-  <h2>Software Engineer | Data Enthusiast 📊</h2>
+  <h2>Software and Data Engineer 📊</h2>
   <p>Bridging the gap between robust code and actionable insights.</p>
 </div>
 
